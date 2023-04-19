@@ -29,7 +29,7 @@ body {
     background-color: var(--cor0);
     font-family: var(--fonte-padrao);
     display: block;
-    margin: 8px;
+    margin: auto;
 }
 
 a.externo::after {
